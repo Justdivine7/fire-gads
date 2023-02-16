@@ -40,7 +40,7 @@ body{
     right: 0;
     top: 0;
     bottom: 0;
-    background-image: url('images/blue-back-headphone.avif');
+    background-image: url('images/blue-back-headphone.jpg');
     background-size: cover;
     background-position: center;
     transition: 0.3s;
@@ -147,7 +147,7 @@ body{
     right: 0;
     top: 0;
     bottom: 0;
-    background-image: url('images/iwatch.avif');
+    background-image: url('images/iwatch.jpg');
     background-size: cover;
     background-position: center;
     transition: 0.3s;
@@ -172,7 +172,7 @@ body{
     right: 0;
     top: 0;
     bottom: 0;
-    background-image: url('images/macbook.avif');
+    background-image: url('images/macbook.jpg');
     background-size: cover;
     background-position: center;
     transition: 0.3s;
@@ -241,7 +241,7 @@ body{
     right: 0;
     top: 0;
     bottom: 0;
-    background-image: url('images/gaming.avif');
+    background-image: url('images/gaming.jpg');
     background-size: cover;
     background-position: center;
     transition: 0.3s;
@@ -291,7 +291,7 @@ body{
     right: 0;
     top: 0;
     bottom: 0;
-    background-image: url('images/jbl-speaker.avif');
+    background-image: url('images/jbl-speaker.jpg');
     background-size: cover;
     background-position: center;
     transition: 0.3s;
